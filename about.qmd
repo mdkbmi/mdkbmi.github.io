@@ -2,4 +2,4 @@
 title: "About"
 ---
 
-About this site
+Hello! I am Danish, a Master of Data Science student at the University of British Columbia.
